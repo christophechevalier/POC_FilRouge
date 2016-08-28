@@ -111,7 +111,7 @@ namespace POC_FilRouge
 
         private void PageFunction()
         {
-
+            int i;
         }
 
 
