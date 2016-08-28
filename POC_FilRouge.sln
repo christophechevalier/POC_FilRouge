@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_FilRouge", "POC_FilRouge\POC_FilRouge.csproj", "{93F0D287-53E6-4B32-966C-44A272A53EA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_FilRouge", "POC_FilRouge.csproj", "{93F0D287-53E6-4B32-966C-44A272A53EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
