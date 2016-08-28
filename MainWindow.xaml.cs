@@ -109,6 +109,12 @@ namespace POC_FilRouge
             return brush;
         }
 
+        private void PageFunction()
+        {
+
+        }
+
+
         #region Listeners 
 
         private void Choix_Click(object sender, RoutedEventArgs e)
